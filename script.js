@@ -90,4 +90,4 @@
     console.log(diagonal)
 }
 
- getDiagonal([[5, 2, 3], [5, 2, 3], [5, 2, 3]], 3, 3)
+ getDiagonal([[5, 2, 3], [5, 2, 3], [5, 2, 3]])
